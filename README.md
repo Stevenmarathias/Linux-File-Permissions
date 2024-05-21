@@ -33,6 +33,7 @@ This project involves updating file permissions for certain files and directorie
 
 ## How to Use
 1. Place the `manage_permissions.sh` script in the desired directory.
+
 2. Run the script with appropriate permissions to update the file and directory permissions.
    ```bash
    bash src/manage_permissions.sh
@@ -45,6 +46,3 @@ chmod 664 /home/researcher2/projects/project_k.txt
 chmod 644 /home/researcher2/projects/project_r.txt
 chmod 644 /home/researcher2/projects/project_t.txt
 
-git add .
-git commit -m "Initial commit with script and README"
-git push origin main
