@@ -1,8 +1,11 @@
 # Linux-File-Permissions
 
 mkdir src
+
 touch src/manage_permissions.sh
+
 touch README.md
+
 touch .gitignore
 
 #!/bin/bash
