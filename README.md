@@ -1,6 +1,4 @@
 # Linux-File-Permissions
-git clone https://github.com/Stevenmarathias/Linux-File-Permissions.git
-cd Linux-File-Permissions
 
 mkdir src
 touch src/manage_permissions.sh
