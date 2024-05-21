@@ -15,10 +15,15 @@ ls -la /home/researcher2/projects
 
 # Change file permissions
 chmod g-x /home/researcher2/projects/drafts
+
 chmod 600 /home/researcher2/projects/.project_x.txt
+
 chmod 644 /home/researcher2/projects/project_m.txt
+
 chmod 664 /home/researcher2/projects/project_k.txt
+
 chmod 644 /home/researcher2/projects/project_r.txt
+
 chmod 644 /home/researcher2/projects/project_t.txt
 
 # File Permissions in Linux
